@@ -1,17 +1,21 @@
-### App-Full-Stack-Node-express-react
+# bun-react-tailwind-template
 
-Cómo crear una aplicación fullstack con:
+To install dependencies:
 
-Backend: Express + TypeScript + Node.js + MongoDB + Bun
+```bash
+bun install
+```
 
-Frontend: React + Vite + Tailwind CSS
+To start a development server:
 
-Herramientas de desarrollo: Postman, VSCode, GitHub
+```bash
+bun dev
+```
 
-Despliegue: Render
+To run for production:
 
+```bash
+bun start
+```
 
-/mi-proyecto
-├── backend/
-├── frontend/
-├── README.md
+This project was created using `bun init` in bun v1.2.17. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
